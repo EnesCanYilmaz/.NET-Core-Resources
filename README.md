@@ -46,6 +46,7 @@ https://www.youtube.com/@IAmTimCorey
 "Bunlar haricinde belirli bir proje hakkında bir kurs alıp o konu üzerinde kendinizi geliştirebilirsiniz. Tabiki de projeyi kendiniz yapmanız sizi daha çok geliştirecektir.
 
 #BLOG
+
 Yazılım Mimarileri ve Tasarım Desenleri üzerine size blog yazıları sunan bir kaynak.
 
 https://www.gencayyildiz.com/blog/
